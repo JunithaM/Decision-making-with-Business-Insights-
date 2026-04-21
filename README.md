@@ -4,6 +4,7 @@
 FileDescriptionDecision_making_with_business_insights.ipynbMain Jupyter Notebook with all analysis and codeZingaro_Company.csvDataset for stone hardness analysis (Problem 3)Dental_Hardness_data.xlsxDataset for dental implant hardness analysis (Problem 4)decision_making_with_business_insights_report.pdfFinal business report with findings
 
 🧪 Problems Solved
+
 **Problem 1 – Probability & Football Injuries**
 Calculated probabilities of player injuries based on position using contingency tables.
 
