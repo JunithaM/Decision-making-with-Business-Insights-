@@ -13,11 +13,14 @@ Analyzed breaking strength of cement packaging using the Normal Distribution and
 
 **Problem 3 – Hypothesis Testing (Zingaro Stone Printing)**
 One-sample t-test to check if unpolished stones meet the hardness threshold (≥150 Brinell).
+
 Two-sample t-test to compare polished vs unpolished stone hardness.
 
 **Problem 4 – ANOVA (Dental Implants)**
 One-way ANOVA to test hardness variation by dentist and by method.
+
 Two-way ANOVA with interaction effects between dentist and method.
+
 Tukey HSD post-hoc test for pairwise comparison.
 
 
@@ -31,8 +34,11 @@ statsmodels – ANOVA and post-hoc analysis
 
 **📊 Key Findings**
 61.7% of football players are likely to suffer an injury.
+
 11.12% of gunny bags have breaking strength below 3.17 kg/sq.cm.
+
 Unpolished stones are NOT suitable for printing (mean hardness < 150).
+
 Implant hardness varies significantly by method, and there is a significant interaction between dentist and method.
 
 
