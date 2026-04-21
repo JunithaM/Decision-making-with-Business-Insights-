@@ -41,7 +41,3 @@ Unpolished stones are NOT suitable for printing (mean hardness < 150).
 
 Implant hardness varies significantly by method, and there is a significant interaction between dentist and method.
 
-
-👩‍💻 Author
-**Junitha M
-Post Graduate Program in Data Science with Generative AI**
